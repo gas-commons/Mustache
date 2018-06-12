@@ -5,9 +5,18 @@ Mustache.js for Googe Apps Script
 ### Add library
 project key: `MoB1GsrPeNTPPX8SRqpw8QDVZgzu5bsVr`
 
-### Load library
+### Use in your script
+#### render
 ```js
-var mustache = Mustache.load()
+var template = '{{title}} spends {{calc}}'
+var data = {
+  title: 'Joe',
+  calc: function () {
+    return 2 + 4;
+  }
+}
+
+var output = Mustache.render(template, data)  //Joe spends 6
 ```
 
 ## Reference
