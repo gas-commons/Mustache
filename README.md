@@ -3,7 +3,7 @@ Mustache.js for Googe Apps Script
 
 ## Usage
 ### Add library
-project key: `MoB1GsrPeNTPPX8SRqpw8QDVZgzu5bsVr`
+project key: `13re0EpD6XiVa5zHXndGiYtcH-QMnbeE5MJH190pJ8xCYhmuW5sX2ZO5R`
 
 ### Use in your script
 ```js
