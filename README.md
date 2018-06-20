@@ -6,6 +6,8 @@ Mustache.js for Googe Apps Script
 project key: `13re0EpD6XiVa5zHXndGiYtcH-QMnbeE5MJH190pJ8xCYhmuW5sX2ZO5R`
 
 ### Use in your script
+Example:
+
 ```js
 var template = '{{title}} spends {{calc}}'
 var data = {
