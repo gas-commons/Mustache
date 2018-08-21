@@ -17,8 +17,7 @@ var data = {
   }
 }
 
-var output = Mustache.render(template, data)
-console.log(output) // Joe spends 6
+var output = Mustache.render(template, data) // Joe spends 6
 ```
 
 ## Reference
