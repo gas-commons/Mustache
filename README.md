@@ -1,4 +1,4 @@
-# Mustache.gs
+# Mustache
 Mustache.js for Googe Apps Script
 
 ## Usage
